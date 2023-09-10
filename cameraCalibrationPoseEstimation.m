@@ -225,7 +225,7 @@ hold off
 
 %% Image 1 2
 
-galleryImage = imread("IMG_8210.jpg");
+galleryImage = imread("images\IMG_8210.jpg");
 xtheta = 20;
 ytheta = -80;
 ztheta = 30;
@@ -299,7 +299,7 @@ hold off
 
 %% Image 1 3
 
-galleryImage = imread("IMG_8210.jpg");
+galleryImage = imread("images\IMG_8210.jpg");
 xtheta = 20;
 ytheta = 120;
 ztheta = 30;
@@ -373,7 +373,7 @@ displayLit(x_projected,x_transformed,Faces,[1,1,0],pointsInFront);
 hold off
 
 %% Image 2 1
-galleryImage = imread("uganda.jpg");
+galleryImage = imread("images\uganda.jpg");
 xtheta = 20;
 ytheta = 0;
 ztheta = 30;
@@ -445,7 +445,7 @@ displayLit(x_projected,x_transformed,Faces,[0,1,1],pointsInFront);
 hold off
 
 %% image 2 2 k
-galleryImage = imread("uganda.jpg");
+galleryImage = imread("images\uganda.jpg");
 xtheta = 20;
 ytheta = 0;
 ztheta =0;
@@ -516,7 +516,7 @@ displayLit(x_projected,x_transformed,Faces,[0,1,1],pointsInFront);
 hold off
 
 %% image 2 3 k 
-galleryImage = imread("uganda.jpg");
+galleryImage = imread("images\uganda.jpg");
 xtheta = 10;
 ytheta = -90;
 ztheta =20;
