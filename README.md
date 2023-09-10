@@ -14,7 +14,7 @@ Relate the Lego piece points to the 3D mesh points for pose estimation.
 
 Superimpose the mesh over the Lego piece image.
 
-![This is an image](Results/meshSuperimposed.png)
+![This is an image](Results/meshSuperimposed.jpg)
 
 Project the mesh onto a new space and apply lighting.
 
